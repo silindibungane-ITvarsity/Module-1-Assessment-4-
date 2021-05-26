@@ -1,0 +1,18 @@
+h1{
+    color: #8B008B;
+    font-family: sans-serif
+    
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #9932CC;
+}
+th{
+    font-weight: 800;
+    background-color: #9932CC;
+    color: #ffffff;
+   
+}
